@@ -1,4 +1,3 @@
-// PART 1: Start ke 5 Questions (Different Answers)
 
 // Q1. Create a full name message using variables.
 let firstName = "Affan";
@@ -37,7 +36,6 @@ console.log(num2 % 3); // Output: 1
 // 10 ko 3 se divide karne pe remainder 1 bachta hai, isliye output 1 hai.
 
 
-// PART 2: End ke 5 Questions (Same Questions, Answers Different)
 
 // Q6. Alert message using variables
 let student = "Hassan";
@@ -82,5 +80,6 @@ let n = 5;
 let results = (n + 3) * 2 - 1;
 console.log("Results is:", results); // Output: 15
 // Pehle number mein 3 add kiya, phir usko 2 se multiply kiya, aur end mein 1 minus kiya. Final result 15 aaya.
+
 
 
